@@ -1,11 +1,28 @@
 # projet-collectif---back-fraises
 
-Backend part with Mehmet Gunduz, Julie Baret, Juanita Afonador, Clementine Chasles and Delhia Gbelidji. Then switch Alex, Assetou, Faris and Julie D.
+Backend part with Mehmet, Julie B, Juanita, Clementine and Delhia. Then switch Alex, Assetou, Faris and Julie D.
 
-<p><img align="center" alt="" src=""/></p>
-<p><img align="center" alt="" src=""/></p>
-<p><img align="center" alt="" src=""/></p>
-<p><img align="center" alt="" src=""/></p>
+- Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une front-end et une back-end. Projet sur deux semaines, une équipe travaillant sur une stack puis change la semaine d'après. 
+
+## Notions abordées:
+
+- Déploiement web
+- Bases de données
+- Interactions Front-end/Back-end
+- Utilisation d’un framework pour le back-end
+
+## Outils:
+
+- React-Bootstrap/Nodejs
+- Postman, MongoDB
+- Slack, Notion, Miro
+
+<p><img align="center" alt="" src="https://github.com/Alexluu13/P5_E-commerce-front-fraises/blob/main/p5_e-commerce_1.png"/></p>
+<p><img align="center" alt="" src="https://github.com/Alexluu13/P5_E-commerce-back-fraises/blob/main/p5_e-commerce_5.png"/></p>
+<p><img align="center" alt="" src="https://github.com/Alexluu13/P5_E-commerce-back-fraises/blob/main/p5_e-commerce_6.png"/></p>
+<p><img align="center" alt="" src="https://github.com/Alexluu13/P5_E-commerce-back-fraises/blob/main/p5_e-commerce_7.png"/></p>
+
+Le sujet du projet est de créer un site e-commerce à partir d'une commande client (Lauréline Fleury) et de respecter les demandes de cette dernière, c'est-à-dire: un site internet pour afficher ses produits, une page principale qui regroupera les meubles en vente, un encart dans lequel on pourra retrouver une photo, le type de meuble, le prix et un bouton pour l’acheter, accéder au détail du produit, une page admin... Pour les utilisateurs: ils pourront créer un compte (email + mot de passe), une page qui permet aux utilisateurs connectés de proposer des meubles à vendre...
 
 ***
 ***
