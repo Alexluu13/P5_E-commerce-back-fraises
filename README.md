@@ -1,6 +1,14 @@
 # projet-collectif---back-fraises
 
-Backend part with Mehmet Gunduz, Julie Baret, Juanita Afonador, Clementine Chasles and Delhia Gbelidji
+Backend part with Mehmet Gunduz, Julie Baret, Juanita Afonador, Clementine Chasles and Delhia Gbelidji. Then switch Alex, Assetou, Faris and Julie D.
+
+<p><img align="center" alt="" src=""/></p>
+<p><img align="center" alt="" src=""/></p>
+<p><img align="center" alt="" src=""/></p>
+<p><img align="center" alt="" src=""/></p>
+
+***
+***
 
 # Transition for the frontend team :
 
