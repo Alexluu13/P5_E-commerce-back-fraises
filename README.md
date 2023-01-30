@@ -1,19 +1,19 @@
 # projet-collectif---back-fraises
 
-Backend part with Mehmet, Julie B, Juanita, Clementine and Delhia. Then switch Alex, Assetou, Faris and Julie D.
+Backend avec Mehmet, Julie B, Juanita, Clementine and Delhia. Suivi d'Alex, Assetou, Faris and Julie D.
 
-- Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une front-end et une back-end. Projet sur deux semaines, une équipe travaillant sur une stack puis change la semaine d'après. 
+Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une frontend et une backend. Projet sur deux semaines, une équipe travaillant sur une stack puis change la semaine d'après. 
 
 ## Notions abordées:
 
 - Déploiement web
 - Bases de données
 - Interactions Front-end/Back-end
-- Utilisation d’un framework pour le back-end
+- Utilisation d’un framework/library pour le frontend et le back-end.
 
 ## Outils:
 
-- React-Bootstrap/Nodejs
+- React-Bootstrap/Nodejs, Express
 - Postman, MongoDB
 - Slack, Notion, Miro
 
@@ -48,22 +48,6 @@ control + c
    
    npx nodemon server
 
-What we did for the setup (you don't have to do it again):
-
-- Master to main: (short version, else see : https://pythonforundergradengineers.com/how-to-change-a-github-repo-from-master-to-main.html)
-
-Clone the repo
-git clone git@github.com:adatechschool/projet-collectif---back-fraises.git
-
-git branch -m master main
-
-git push -u origin main
-
-git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
-
-# change default branch on GitHub
-
-git push origin --delete master
 
 - Next we install: node's modules and dependencies, mongoDB, express, CORS, dotenv...
   Prerequisites:
