@@ -13,7 +13,7 @@ Ce projet collectif à pour objectif de créer un site e-commerce en respectant 
 
 ## Outils:
 
-- React-Bootstrap/Nodejs, Express
+- Nodejs, Express
 - Postman, MongoDB
 - Slack, Notion, Miro
 
